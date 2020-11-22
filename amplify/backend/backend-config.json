@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "bensappda64c771": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
